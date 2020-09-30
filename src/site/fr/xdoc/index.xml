@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Global POM pour Kotlin</title>
+    </properties>
+    <body>
+        <section name="Global POM pour Kotlin">
+            <subsection name="Introduction">
+                <p>
+                    <img src="images/kotlin.png" />
+                </p>
+                <p>
+                    Ce POM doit être utilisé comme parent des POM de tous les plugins écrits en Kotlin.
+                </p>
+            </subsection>
+        </section>
+    </body>
+</document>

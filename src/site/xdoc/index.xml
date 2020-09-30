@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Kotlin Global POM</title>
+    </properties>
+    <body>
+        <section name="Kotlin Global POM">
+            <subsection name="Introduction">
+                <p>
+                    <img src="images/kotlin.png" />
+                </p>
+                <p>
+                    This POM file should be used as parent POM of any Lutece plugin written in Kotlin.
+                </p>
+            </subsection>
+        </section>
+    </body>
+</document>
