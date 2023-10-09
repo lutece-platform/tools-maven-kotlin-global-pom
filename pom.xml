@@ -15,7 +15,7 @@
     <name>Lutece kotlin global pom</name>
     
     <properties>
-        <kotlin.version>1.4.10</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <jiraProjectName>KOTLINPOM</jiraProjectName>
         <jiraComponentId />
     </properties>
